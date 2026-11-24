@@ -1,0 +1,92 @@
+{
+  "*": {
+    "filterCard": [
+      {
+        "$id": "Available",
+        "foregroundColor": {
+          "solid": {
+            "color": "#333333"
+          }
+        },
+        "backgroundColor": {
+          "solid": {
+            "color": "#BED1CE"
+          }
+        },
+        "textSize": 9,
+        "fontFamily": "Segoe UI",
+        "transparency": 0,
+        "border": true,
+        "borderColor": {
+          "solid": {
+            "color": "#0D5A4C"
+          }
+        },
+        "inputBoxColor": {
+          "solid": {
+            "color": "#D6E3E0"
+          }
+        }
+      },
+      {
+        "$id": "Applied",
+        "foregroundColor": {
+          "solid": {
+            "color": "#252423"
+          }
+        },
+        "backgroundColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "textSize": 9,
+        "fontFamily": "Segoe UI",
+        "transparency": 0,
+        "border": true,
+        "borderColor": {
+          "solid": {
+            "color": "#C8C8C8"
+          }
+        },
+        "inputBoxColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        }
+      }
+    ],
+    "background": [
+      {
+        "transparency": 100,
+        "color": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        }
+      }
+    ],
+    "outspace": [
+      {
+        "transparency": 0,
+        "color": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        }
+      }
+    ],
+    "displayArea": [
+      {
+        "verticalAlignment": "Middle"
+      }
+    ],
+    "pageSize": [
+      {
+        "pageSizeHeight": 1080,
+        "pageSizeTypes": "Custom",
+        "pageSizeWidth": 1920
+      }
+    ]
+  }
+}

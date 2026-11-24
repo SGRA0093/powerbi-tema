@@ -1,0 +1,34 @@
+{
+  "*": {
+    "outspacePane": [
+      {
+        "backgroundColor": {
+          "solid": {
+            "color": "#117865"
+          }
+        },
+        "foregroundColor": {
+          "solid": {
+            "color": "#ffffff"
+          }
+        },
+        "borderColor": {
+          "solid": {
+            "color": "#0D5A4C"
+          }
+        },
+        "checkboxAndApplyColor": {
+          "solid": {
+            "color": "#117865"
+          }
+        },
+        "searchTextSize": 10,
+        "inputBoxColor": {
+          "solid": {
+            "color": "#BED1CE"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "*": {
+    "general": [
+      {
+        "height": 60,
+        "width": 1120,
+        "x": 800,
+        "y": 0
+      }
+    ],
+    "pages": [
+      {
+        "showByDefault": true,
+        "showHiddenPages": false,
+        "showPage": true
+      }
+    ],
+    "shape": [
+      {
+        "rectangleRoundedCurve": 5,
+        "tileShape": "tabRoundTopCorners"
+      }
+    ],
+    "text": [
+      {
+        "$id": "default",
+        "bottomMargin": 6,
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "horizontalAlignment": "center",
+        "show": true,
+        "topMargin": 0
+      },
+      {
+        "$id": "hover",
+        "bottomMargin": 6,
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "horizontalAlignment": "center",
+        "show": true,
+        "topMargin": 0
+      },
+      {
+        "$id": "selected",
+        "bold": true,
+        "bottomMargin": 6,
+        "fontColor": {
+          "solid": {
+            "color": "#333333"
+          }
+        },
+        "fontFamily": "Segoe UI",
+        "fontSize": 14,
+        "horizontalAlignment": "center",
+        "show": true,
+        "topMargin": 0
+      }
+    ],
+    "fill": [
+      {
+        "$id": "default",
+        "fillColor": {
+          "solid": {
+            "color": "#002555"
+          }
+        },
+        "show": true,
+        "transparency": 100
+      },
+      {
+        "$id": "hover",
+        "fillColor": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        },
+        "show": true,
+        "transparency": 90
+      },
+      {
+        "$id": "selected",
+        "fillColor": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        },
+        "show": true,
+        "transparency": 0
+      }
+    ],
+    "outline": [
+      {
+        "$id": "default",
+        "lineColor": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        },
+        "show": true,
+        "transparency": 50,
+        "weight": 1
+      },
+      {
+        "$id": "hover",
+        "lineColor": {
+          "solid": {
+            "color": "#E3E2E1"
+          }
+        },
+        "show": true,
+        "transparency": 50,
+        "weight": 1
+      },
+      {
+        "$id": "selected",
+        "lineColor": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        },
+        "show": true,
+        "transparency": 100,
+        "weight": 1
+      }
+    ],
+    "layout": [
+      {
+        "cellPadding": 0,
+        "orientation": 2
+      }
+    ],
+    "padding": [
+      {
+        "top": 10,
+        "bottom": 0,
+        "left": 0,
+        "right": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "*": {
+    "general": [
+      {
+        "height": 50,
+        "width": 500,
+        "x": 10,
+        "y": 70
+      }
+    ],
+    "shape": [
+      {
+        "rectangleRoundedCurve": 5,
+        "tileShape": "rectangle"
+      }
+    ],
+    "text": [
+      {
+        "$id": "default",
+        "bottomMargin": 2,
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "horizontalAlignment": "center",
+        "leftMargin": 0,
+        "rightMargin": 0,
+        "topMargin": 0
+      },
+      {
+        "$id": "hover",
+        "bottomMargin": 2,
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "horizontalAlignment": "center",
+        "leftMargin": 0,
+        "rightMargin": 0,
+        "topMargin": 0
+      },
+      {
+        "$id": "selected",
+        "bottomMargin": 2,
+        "fontColor": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "fontFamily": "Segoe UI",
+        "fontSize": 12,
+        "horizontalAlignment": "center",
+        "leftMargin": 0,
+        "rightMargin": 0,
+        "topMargin": 0
+      }
+    ],
+    "fill": [
+      {
+        "$id": "default",
+        "fillColor": {
+          "solid": {
+            "color": "#002555"
+          }
+        },
+        "transparency": 50
+      },
+      {
+        "$id": "hover",
+        "fillColor": {
+          "solid": {
+            "color": "#002555"
+          }
+        },
+        "show": true,
+        "transparency": 60
+      },
+      {
+        "$id": "selected",
+        "fillColor": {
+          "solid": {
+            "color": "#002555"
+          }
+        },
+        "show": true,
+        "transparency": 0
+      }
+    ],
+    "outline": [
+      {
+        "$id": "default",
+        "lineColor": {
+          "solid": {
+            "color": "#000000"
+          }
+        },
+        "transparency": 70,
+        "weight": 1,
+        "show": true
+      },
+      {
+        "$id": "hover",
+        "lineColor": {
+          "solid": {
+            "color": "#000000"
+          }
+        },
+        "show": true,
+        "transparency": 70,
+        "weight": 1
+      },
+      {
+        "$id": "selected",
+        "lineColor": {
+          "solid": {
+            "color": "#000000"
+          }
+        },
+        "show": true,
+        "transparency": 50,
+        "weight": 1
+      }
+    ],
+    "layout": [
+      {
+        "orientation": 2,
+        "rowCount": 1
+      }
+    ],
+    "background": [
+      {
+        "show": true,
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "transparency": 0
+      }
+    ],
+    "border": [
+      {
+        "show": true,
+        "color": {
+          "solid": {
+            "color": "#F3F2F1"
+          }
+        },
+        "radius": 5
+      }
+    ],
+    "dropShadow": [
+      {
+        "show": true,
+        "color": {
+          "solid": {
+            "color": "#E3E2E1"
+          }
+        },
+        "position": "Inner",
+        "preset": "Custom",
+        "shadowSpread": 1,
+        "shadowBlur": 0,
+        "angle": 0,
+        "shadowDistance": 0,
+        "transparency": 0
+      }
+    ],
+    "padding": [
+      {
+        "top": 10,
+        "bottom": 10,
+        "left": 10,
+        "right": 10
+      }
+    ],
+    "accentBar": [
+      {
+        "$id": "default",
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "position": "Top",
+        "show": true,
+        "transparency": 30,
+        "width": 3
+      },
+      {
+        "$id": "hover",
+        "color": {
+          "solid": {
+            "color": "#FFFFFF"
+          }
+        },
+        "position": "Top",
+        "show": true,
+        "transparency": 30,
+        "width": 3
+      },
+      {
+        "$id": "selected",
+        "color": {
+          "solid": {
+            "color": "#000000"
+          }
+        },
+        "position": "Top",
+        "show": true,
+        "transparency": 80,
+        "width": 3
+      }
+    ]
+  }
+}
