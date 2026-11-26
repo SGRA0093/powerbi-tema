@@ -54,7 +54,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -141,7 +141,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5,
@@ -158,13 +158,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": false,
@@ -200,7 +200,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5
@@ -254,12 +254,12 @@
         },
         "xlimit_tick_colour": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "xlimit_label_colour": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "xlimit_tick_font": "'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif",
@@ -284,12 +284,12 @@
         },
         "ylimit_tick_colour": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "ylimit_label_colour": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "ylimit_tick_font": "'Segoe UI', wf_segoe-ui_normal, helvetica, arial, sans-serif",

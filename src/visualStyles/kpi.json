@@ -58,7 +58,7 @@
         "underline": false,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "horizontalAlignment": "center",
@@ -78,7 +78,7 @@
         "showDistance": true,
         "goalFontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "goalFontFamily": "Segoe UI",
@@ -87,7 +87,7 @@
         "labelPrecision": 2,
         "distanceFontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "distanceFontFamily": "Segoe UI",
@@ -119,7 +119,7 @@
         "show": false,
         "lastDateFontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "lastDateFontFamily": "Segoe UI",
@@ -133,7 +133,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -204,13 +204,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": false,
@@ -246,7 +246,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5

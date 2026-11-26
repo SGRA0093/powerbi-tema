@@ -55,7 +55,7 @@
         "show": true,
         "fontColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "fontFamily": "Segoe UI",
@@ -146,7 +146,7 @@
         "show": false,
         "color": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "position": "Outer",
@@ -176,7 +176,7 @@
         "width": 0,
         "color": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "position": "Top",
@@ -190,7 +190,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -274,13 +274,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": true,
@@ -316,7 +316,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5
@@ -348,7 +348,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5,

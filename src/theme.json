@@ -23,15 +23,15 @@
     "#BEBBAC",
     "#613216"
   ],
-  "tableAccent": "#000000",
+  "tableAccent": "#191815",
   "good": "#295e47",
   "neutral": "#ffda00",
   "bad": "#ed2135",
   "maximum": "#9BC8E6",
   "center": "#D9B300",
   "minimum": "#CDAABF",
-  "foreground": "#333333",
-  "foregroundNeutralSecondary": "#333333",
+  "foreground": "#191815",
+  "foregroundNeutralSecondary": "#191815",
   "backgroundLight": "#e3e2e1",
   "foregroundNeutralTertiary": "#e3e2e1",
   "background": "#FFFFFF",
@@ -39,30 +39,30 @@
   "textClasses": {
     "callout": {
       "fontFace": "Segoe UI",
-      "color": "#333333",
+      "color": "#191815",
       "fontSize": 40
     },
     "title": {
       "fontFace": "Segoe UI",
-      "color": "#333333",
+      "color": "#191815",
       "fontSize": 14
     },
     "header": {
       "fontFace": "Segoe UI",
-      "color": "#333333",
+      "color": "#191815",
       "fontSize": 12
     },
     "label": {
       "fontFace": "Segoe UI",
-      "color": "#000000",
+      "color": "#191815",
       "fontSize": 12
     },
     "smallLightLabel": {
-      "color": "#333333",
+      "color": "#191815",
       "fontSize": 12
     },
     "largeLightLabel": {
-      "color": "#333333",
+      "color": "#191815",
       "fontSize": 12
     },
     "boldLabel": {

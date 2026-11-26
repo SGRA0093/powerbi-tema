@@ -223,13 +223,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": true,
@@ -265,7 +265,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5

@@ -123,7 +123,7 @@
       {
         "fontColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "outlineColor": {
@@ -146,7 +146,7 @@
         "showExpandCollapseButtons": true,
         "expandCollapseButtonsColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "expandCollapseButtonsSize": 12
@@ -158,7 +158,7 @@
         "valuesOnRow": false,
         "fontColorPrimary": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "backColorPrimary": {
@@ -168,7 +168,7 @@
         },
         "fontColorSecondary": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "backColorSecondary": {
@@ -197,7 +197,7 @@
         "$id": "Row",
         "fontColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -211,7 +211,7 @@
         "$id": "Column",
         "fontColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -290,7 +290,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -377,7 +377,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5,
@@ -394,13 +394,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": false,
@@ -436,7 +436,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5

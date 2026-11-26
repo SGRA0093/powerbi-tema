@@ -53,7 +53,7 @@
         "keepLayerOrder": false,
         "outlineColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "outlineWeight": 2,
@@ -67,7 +67,7 @@
         "showTitle": false,
         "labelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontFamily": "Segoe UI",
@@ -86,7 +86,7 @@
         "invertAxis": false,
         "labelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -103,7 +103,7 @@
         "showAxisTitle": false,
         "titleColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "titleFontSize": 14,
@@ -130,7 +130,7 @@
         "invertAxis": false,
         "labelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -145,7 +145,7 @@
         "axisStyle": "showTitleOnly",
         "titleColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "titleFontSize": 14,
@@ -215,7 +215,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -302,7 +302,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5,
@@ -319,13 +319,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": false,
@@ -361,7 +361,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5

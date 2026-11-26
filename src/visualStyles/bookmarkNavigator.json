@@ -97,7 +97,7 @@
         "$id": "default",
         "lineColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 70,
@@ -108,7 +108,7 @@
         "$id": "hover",
         "lineColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "show": true,
@@ -119,7 +119,7 @@
         "$id": "selected",
         "lineColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "show": true,
@@ -209,7 +209,7 @@
         "$id": "selected",
         "color": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "position": "Top",

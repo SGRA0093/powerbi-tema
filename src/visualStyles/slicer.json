@@ -6,7 +6,7 @@
         "responsive": false,
         "outlineColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "outlineWeight": 1,
@@ -25,7 +25,7 @@
         "show": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -46,7 +46,7 @@
       {
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -71,7 +71,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -164,7 +164,7 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
@@ -206,7 +206,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5
@@ -239,7 +239,7 @@
         "textSize": 11,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         }
       }
@@ -252,7 +252,7 @@
         "orientation": 0,
         "outlineColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "outlineWeight": 1
@@ -264,7 +264,7 @@
         "textSize": 10,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "padding": 0,
@@ -290,7 +290,7 @@
         "bold": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -311,7 +311,7 @@
         "underline": false,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {

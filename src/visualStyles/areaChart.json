@@ -53,7 +53,7 @@
         "keepLayerOrder": false,
         "outlineColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "outlineWeight": 2,
@@ -70,7 +70,7 @@
         "showTitle": false,
         "labelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontFamily": "Segoe UI",
@@ -89,7 +89,7 @@
         "invertAxis": false,
         "labelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -106,7 +106,7 @@
         "showAxisTitle": false,
         "titleColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "titleFontSize": 14,
@@ -133,7 +133,7 @@
         "invertAxis": false,
         "labelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -148,7 +148,7 @@
         "axisStyle": "showTitleOnly",
         "titleColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "titleFontSize": 14,
@@ -171,7 +171,7 @@
         "secScaleType": "Linear",
         "secLabelColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "secFontSize": 12,
@@ -185,7 +185,7 @@
         "secTitleStyle": "showTitleOnly",
         "secTitleColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "secTitleFontSize": 14,
@@ -208,7 +208,7 @@
       {
         "color": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "labelDisplayUnits": 1,
@@ -244,14 +244,14 @@
         "underline": false,
         "seriesColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "seriesWordWrap": false,
         "enableBackground": false,
         "backgroundColor": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "backgroundTransparency": 0
@@ -286,7 +286,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -373,7 +373,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5,
@@ -390,13 +390,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": false,
@@ -432,7 +432,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5

@@ -26,7 +26,7 @@
         "show": false,
         "color": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontSize": 12,
@@ -40,7 +40,7 @@
       {
         "color": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "fontSize": 14,
@@ -78,7 +78,7 @@
         "titleWrap": true,
         "fontColor": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "background": {
@@ -188,13 +188,13 @@
         },
         "border": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "transparency": 0,
         "foreground": {
           "solid": {
-            "color": "#000000"
+            "color": "#191815"
           }
         },
         "showVisualInformationButton": false,
@@ -230,7 +230,7 @@
         "underline": false,
         "background": {
           "solid": {
-            "color": "#333333"
+            "color": "#191815"
           }
         },
         "transparency": 5
