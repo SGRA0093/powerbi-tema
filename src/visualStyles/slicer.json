@@ -156,7 +156,7 @@
     ],
     "visualHeader": [
       {
-        "show": true,
+        "show": false,
         "background": {
           "solid": {
             "color": "#FFFFFF"
